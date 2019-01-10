@@ -1,5 +1,0 @@
-https://security.stackexchange.com/questions/23981/can-https-be-used-instead-of-sftp-for-secure-file-transfers
-https://docs.microsoft.com/en-us/aspnet/core/razor-pages/upload-files?view=aspnetcore-2.2
-Is 3rd Party verification for file upload required if replacing sftp? (I.e. by the banks, clients, sellers) - Possible example: https://www.filestack.com/ - Does Azure offer this?
-For a user to upload a file they would have to be a registered user. As uploading files presents so many security loopholes what is the User registration strategy? Can anybody log on to upload a file?
-https://www.goanywhere.com/platforms/microsoft-azure
